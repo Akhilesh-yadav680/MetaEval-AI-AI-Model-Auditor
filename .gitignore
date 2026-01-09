@@ -1,0 +1,35 @@
+# Virtual Environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset files
+data/*.csv
+
+# Trained models
+models/*.pkl
+
+# Streamlit
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Environment variables
+.env
